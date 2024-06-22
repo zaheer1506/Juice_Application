@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-06-22T17:30:30 IST" name="Default suite" finished-at="2024-06-22T17:30:53 IST" duration-ms="23709">
+  <suite started-at="2024-06-22T18:29:25 IST" name="Suite" finished-at="2024-06-22T18:30:05 IST" duration-ms="39670">
     <groups>
     </groups>
-    <test started-at="2024-06-22T17:30:30 IST" name="Default test" finished-at="2024-06-22T17:30:53 IST" duration-ms="23709">
+    <test started-at="2024-06-22T18:29:25 IST" name="Test" finished-at="2024-06-22T18:30:05 IST" duration-ms="39670">
       <class name="testPackage.TestCaseClass">
-        <test-method signature="launchApplication()[pri:1, instance:testPackage.TestCaseClass@47d9a273]" started-at="2024-06-22T17:30:30 IST" name="launchApplication" finished-at="2024-06-22T17:30:53 IST" duration-ms="23650" status="PASS">
+        <test-method signature="launchApplication()[pri:1, instance:testPackage.TestCaseClass@4310d43]" started-at="2024-06-22T18:29:25 IST" name="launchApplication" finished-at="2024-06-22T18:30:05 IST" duration-ms="39631" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchApplication -->
       </class> <!-- testPackage.TestCaseClass -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
